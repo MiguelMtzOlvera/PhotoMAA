@@ -45,3 +45,8 @@ div{
 
 .derecha   { float: right; }
 .izquierda { float: left;  }
+
+.titulo{
+	color: black;
+	font-family:courier;
+}
