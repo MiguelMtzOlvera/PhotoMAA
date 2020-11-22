@@ -1,7 +1,6 @@
 
-
 body{
-	background-image: url("fondo.jpg");
+	color: white;
 	background-position:center center;
     background-repeat: no-repeat;
     background-attachment:fixed;
@@ -19,7 +18,7 @@ h1{
 
 
 h3{
-  color: #f4f4f4;
+  color: #222831;
   font-size: ="1";
   font-family: "Bookman Old Style";
 
@@ -29,8 +28,8 @@ h3{
 
 
 h4{
-  color: #f4f4f4;
-  font-size: ="1";
+  color: #16a596;
+  font-size: ="+2";
   font-family: "Brush Script MT";
 
 }
@@ -66,7 +65,5 @@ div{
 .derecha   { float: right; }
 .izquierda { float: left;  }
 
-.titulo{
-	color: black;
-	font-family:courier;
-}
+
+
